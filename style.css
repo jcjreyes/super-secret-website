@@ -293,3 +293,12 @@ p.caption {
     color: darkslategray;
     width: 300px;
 }
+
+.message {
+    flex-direction: column;
+    text-align: center;
+}
+
+.message h1 {
+    align-self: center;
+}
